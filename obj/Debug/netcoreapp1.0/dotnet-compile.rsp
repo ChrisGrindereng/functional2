@@ -1,5 +1,5 @@
---temp-output:C:\Users\cog04\TIY\functional2\obj\Debug\netcoreapp1.0\
---out:C:\Users\cog04\TIY\functional2\bin\Debug\netcoreapp1.0\functional2.dll
+--temp-output:C:\Users\cog04\tiy\functional3\functional2\obj\Debug\netcoreapp1.0\
+--out:C:\Users\cog04\tiy\functional3\functional2\bin\Debug\netcoreapp1.0\functional2.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -87,4 +87,4 @@
 --reference:C:\Users\cog04\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\cog04\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\cog04\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\cog04\TIY\functional2\Program.cs
+C:\Users\cog04\tiy\functional3\functional2\Program.cs
